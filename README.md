@@ -8,7 +8,7 @@ and the primary emphasis will be on utilizing Testcontainers for testing interac
 -----------
 
 ## Full Article
-### [YugabyteDB Integration Testing With Spring Boot and Testcontainers]()
+### [YugabyteDB Integration Testing With Spring Boot and Testcontainers](https://medium.com/itnext/yugabytedb-integration-testing-with-spring-boot-and-testcontainers-72a9298ab2dc)
 _Dockerized Testing for Seamless Database Integration in Java Applications_
 
 ### [YugabyteDB Integration Testing With HikariCP and Testcontainers]()
